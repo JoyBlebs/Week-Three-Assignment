@@ -1,0 +1,190 @@
+header {
+  background-image: url("https://media.canva.com/v2/image-resize/format:PNG/height:310/quality:100/uri:s3%3A%2F%2Fmedia-private.canva.com%2FEE2FY%2FMAGfTIEE2FY%2F1%2Fp.png/watermark:F/width:550?csig=AAAAAAAAAAAAAAAAAAAAAEjcRJSxcDnllXghLi_cAIv1TgrvA506dXdko18f9utd&exp=1739793906&osig=AAAAAAAAAAAAAAAAAAAAAM43YqkqtBlR01QH9Pv58R-EzEUysGA1UgZWv5WWTRnz&signer=media-rpc&x-canva-quality=thumbnail_large");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 150px;
+  position: sticky;
+}
+
+a {
+  color: black;
+  font-family: lora;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+}
+
+.header-container {
+  background-color: pink;
+  font-size: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.one {
+  height: 200px;
+  width: 1500px;
+  font-size: 25px;
+  font-family: lora;
+  color: black;
+  background-color: rgba(255, 145, 200, 0.8);
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 0px 2400px 60px;
+  display: flex;
+  flex-direction: row;
+  padding-left: 80px;
+  padding-right: 20px;
+}
+
+body {
+  background-size: contain;
+  height: 200px;
+  width: 100vw;
+}
+
+h2 {
+  color: black;
+  font-size: 60px;
+  font-family: dancing script;
+  width: 800px;
+}
+
+h4 {
+  font-size: 25px;
+}
+
+p {
+  font-family: lora;
+  font-size: 20px;
+}
+
+button {
+  height: 40px;
+  background-color: rgba(255, 145, 200, 0.8);
+  font-family: lora;
+  font-weight: bold;
+  font-size: 20px;
+  border: none;
+  border-radius: 20px;
+}
+
+button:hover {
+  color: red;
+}
+
+.offer-container {
+  background-image: url("https://media.canva.com/v2/image-resize/format:JPG/height:310/quality:92/uri:s3%3A%2F%2Fmedia-private.canva.com%2FML6CY%2FMAGfKhML6CY%2F1%2Fp.jpg/watermark:F/width:550?csig=AAAAAAAAAAAAAAAAAAAAANKRJfuyB6CWPJhT4NOwLUQW3UW0JZDqBo-lyNHl4A42&exp=1739795676&osig=AAAAAAAAAAAAAAAAAAAAAIPa-fWpAQLogX_9zTaPcUHMm8t-XzH-o6XQdpUeDdn9&signer=media-rpc&x-canva-quality=thumbnail_large");
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  width: 100vw;
+  border-radius: 0px 2400px 60px;
+  background-repeat: no-repeat;
+}
+
+.promo-container {
+  border: 4px solid darkgreen;
+  border-radius: 30px;
+  width: 100vw;
+  height: 600px;
+  display: flex;
+  flex-direction: row;
+  align-items: top;
+  justify-content: space-evenly;
+}
+
+.gloss-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 30px;
+}
+
+.palette-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 60px;
+}
+
+.balms-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 30px;
+}
+
+.box {
+  width: 300px;
+  height: 400px;
+  background-color: rgba(255, 145, 200, 0.8);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+}
+
+.gloss {
+  background-color: lightblue;
+  background-image: url("https://media.canva.com/v2/image-resize/format:JPG/height:310/quality:92/uri:s3%3A%2F%2Fmedia-private.canva.com%2FncjIs%2FMAGfMmncjIs%2F1%2Fp.jpg/watermark:F/width:550?csig=AAAAAAAAAAAAAAAAAAAAABi5ZcIyTGSkejcaGDfvZYoukzCB4M46Aer9H4kUlxB7&exp=1739795658&osig=AAAAAAAAAAAAAAAAAAAAAKCIpywhWZTjPv9Xpxjrd8uYjVOIJD_YqWUjx3b3LgjP&signer=media-rpc&x-canva-quality=thumbnail_large");
+  background-size: cover;
+  background-position: center;
+  width: 300px;
+  height: 300px;
+  border-radius: 200px;
+  background-repeat: no-repeat;
+}
+
+.palettes {
+  background-image: url("https://media.canva.com/v2/image-resize/format:JPG/height:310/quality:92/uri:s3%3A%2F%2Fmedia-private.canva.com%2F4AQpE%2FMAGfMq4AQpE%2F1%2Fp.jpg/watermark:F/width:550?csig=AAAAAAAAAAAAAAAAAAAAAEc4I98IE4PexwrIb_F9Xo8XmnVVDwrm8N0n4Fs3sntz&exp=1739795265&osig=AAAAAAAAAAAAAAAAAAAAAEltX6gfnK5p9mKUn48oV5rElnDgnZcZexn3Ekl8iVVn&signer=media-rpc&x-canva-quality=thumbnail_large");
+  background-size: cover;
+  background-repeat: none;
+  background-position: center;
+  width: 300px;
+  height: 300px;
+  border-radius: 200px;
+  background-repeat: no-repeat;
+}
+
+.balms {
+  background-image: url("https://media.canva.com/v2/image-resize/format:PNG/height:440/quality:100/uri:s3%3A%2F%2Fmedia-private.canva.com%2Fu-C-M%2FMAGfMuu-C-M%2F1%2Fp.png/watermark:F/width:550?csig=AAAAAAAAAAAAAAAAAAAAAFnkxgCTxFEwFguWbVxyFRbIBZuTWK1ghT6dCpLzhSac&exp=1739793626&osig=AAAAAAAAAAAAAAAAAAAAAGDmF3zmrJ22s9zk1uKQMd5pnOwsSb_GbtdZLntskqnd&signer=media-rpc&x-canva-quality=thumbnail_large");
+  background-size: cover;
+  background-position: center;
+  width: 300px;
+  height: 300px;
+  border-radius: 200px;
+  background-repeat: no-repeat;
+}
+
+.testimonial-container {
+  background-image: url("https://media.canva.com/v2/image-resize/format:JPG/height:310/quality:92/uri:s3%3A%2F%2Fmedia-private.canva.com%2Fw2K10%2FMAGfHJw2K10%2F1%2Fp.jpg/watermark:F/width:550?csig=AAAAAAAAAAAAAAAAAAAAACmZw1y0II8_7CaDw8WhTvtPDkmhCB5FnynguLZaxCeL&exp=1739796457&osig=AAAAAAAAAAAAAAAAAAAAAHzHO5Td-g2nJQT2mVhDvur5HkWipHe9a4SoG-GIwrOF&signer=media-rpc&x-canva-quality=thumbnail_large");
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 500px;
+  width: 100vw;
+  border-radius: 60px 2400px 0px;
+  background-repeat: no-repeat;
+}
+
+footer {
+  position: fixed;
+  bottom: 0px;
+  width: 100vw;
+  height: 30px;
+  background-color: pink;
+  font-size: 20px;
+  color: darkgreen;
+}
